@@ -1,0 +1,20 @@
+{
+  "name": "DevinJin/queue_manager",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Devin",
+      "email": "jindeq52@gmail.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "QueueManager\\": "src/"
+    }
+  }
+}
